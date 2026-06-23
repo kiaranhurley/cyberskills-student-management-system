@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+/media
+/staticfiles
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Database
+db.sqlite3
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated API schema (regenerate with: manage.py spectacular --file schema.yml)
+schema.yml
+
+# Project documentation (development — not in submission)
+project_docs/
+docs/
+FYP Presentation/
+.claude/
+PROJECT_PLAN.md
+
+# Frontend dependencies & build output
+frontend/node_modules/
+frontend/dist/
+
+# Local student data exports (PII) — curriculum CSVs in data/ remain tracked
+data/Cyberskills*.csv
+
+# Excel source dumps (PII / large) — keep copies locally only; see data/README.md
+data/*.xlsx
+
+# LaTeX build artifacts (regenerate with pdflatex/bibtex)
+docs/Final Report/*.aux
+docs/Final Report/*.bbl
+docs/Final Report/*.blg
+docs/Final Report/*.lof
+docs/Final Report/*.log
+docs/Final Report/*.lot
+docs/Final Report/*.out
+docs/Final Report/*.toc
+docs/Final Report/*.synctex.gz

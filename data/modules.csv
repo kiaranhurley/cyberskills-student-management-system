@@ -1,0 +1,24 @@
+module_code,module_name,credits,fee,lecturer,lecturer_contact
+COMP8063,Emerging Cyber Trends,5 credits,EU €800,,
+COMP9047,Malware Investigations,5 credits,EU €800,Dr. Anila Mjeda,anila.mjeda@mtu.ie
+COMP9048,Malware Reverse Engineering,5 credits,EU €800,Dr. Anila Mjeda,anila.mjeda@mtu.ie
+COMP9051,Threat Intelligence,5 credits,EU €800,,
+COMP9053,Scripting for Cybersecurity,5 credits,EU €800,Dylan Smyth,dylan.smyth@mtu.ie
+CYBR8001,Cybersecurity Standards and Risk,5 credits,EU €800,Gillian O'Carroll,
+CYBR8002,Secure Network Services,5 credits,EU €800,Dr. Abdullah Bin Masood,AbdullahBin.Masood@mtu.ie
+CYBR8003,Secure Network Systems,5 credits,EU €800,Dr. Abdullah Bin Masood,AbdullahBin.Masood@mtu.ie
+CYBR8004,Log Files and Event Analysis,6 credits,EU €800,Dr. Abdullah Bin Masood,AbdullahBin.Masood@mtu.ie
+CYBR8005,Cyber Incident Response,5 credits,EU €800,Dr. Abdullah Bin Masood,AbdullahBin.Masood@mtu.ie
+CYBR9001,Secure Software Development,5 credits,EU €800,Dr. Anila Mjeda,anila.mjeda@mtu.ie
+CYBR9002,Security Assurance,5 credits,EU €800,Dr. Anila Mjeda,anila.mjeda@mtu.ie
+CYBR9003,Practical Cryptography,5 credits,EU €800,Dr. Ashley Sheil,
+CYBR9004,Cryptography & Protocols,5 credits,EU €800,Ashley Sheil,
+CYBR9005,Information Security Architecture,5 credits,EU €800,Deirdre Leahy,
+CYBR9009,Computer Forensics,10 credits,"EU €1,600",Deirdre Leahy,
+CYBR9011,Vulnerability Analysis,5 credits,EU €800,Dr. Abdullah Bin Masood,AbdullahBin.Masood@mtu.ie
+CYBR9013,Quantum Information Security,5 credits,EU €800,Dr. Anila Mjeda,anila.mjeda@mtu.ie
+CYBR9021,Cybersecurity & Digital Operational Resilience,10 credits,"EU €1,600",Deirdre Leahy,
+CYBR9022,Cybersecurity Risk Frameworks,10 credits,"EU €1,600",Deirdre Leahy,
+CYBR9023,Cloud Security Architecting,5 credits,EU €800,Clive Jordan,Clive.Jordan@mtu.ie
+CYBR9028,AI For Cyber Resilience,5 credits,EU €800,Dr. Anila Mjeda,anila.mjeda@mtu.ie
+CYBR9029,Cyber Business Process,5 credits,EU €800,Adrian Cronin,Adrian.Cronin@mtu.ie

@@ -1,0 +1,8 @@
+program_code,program_name,level,credits,start_date,fee,lecturer,lecturer_contact
+CR_KCYRM_9,Postgraduate Certificate in Cyber Resilience Management,Level 9,30 credits,Starts January,"EU €4,800",Gillian O'Carroll,
+CR_KDORE_9,Certificate in Digital Operational Resilience,Level 9,20 credits,Starts January,"EU €3,200",Deirdre Leahy,
+CR_KMLFA_9,Certificate in Malware and Logfile Analysis,Level 9,15 credits,Starts January,"EU €2,400",Dr. Anila Mjeda,anila.mjeda@mtu.ie
+CR_KOTSS_9,Professional Diploma in OT Security Operations Specialist,Level 9,30 credits,Starts September,"EU €3,500",Dr. Muzaffar Rao,Muzaffar.rao@ul.ie
+CR_KSNOP_8,Certificate in Secure Network Operations,Level 8,20 credits,Starts January,"EU €3,200",Abdullah Bin Masood,AbdullahBin.Masood@mtu.ie
+CR_KSSDE_9,Certificate in Secure Software Development,Level 9,20 credits,Starts January,"EU €3,200",Dr. Anila Mjeda,anila.mjeda@mtu.ie
+CR_KSYAS_9,Certificate in Systems Architecture Security,Level 9,20 credits,Starts January,"EU €3,200",Dr. Anila Mjeda,anila.mjeda@mtu.ie

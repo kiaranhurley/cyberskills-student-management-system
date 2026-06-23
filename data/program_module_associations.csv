@@ -1,0 +1,22 @@
+program_code,module_code,program_name,module_name,academic_year,block,block_description,block_start_date,crns,award
+CR_KCYRM_9,CYBR8005,Postgraduate Certificate in Cyber Resilience Management,Cyber Incident Response,25/26,KCYRM_9_Y1,PGC Cyber Resilience Mgmt Y1,SEP-JUN,31593,Postgraduate Certificate
+CR_KCYRM_9,CYBR9011,Postgraduate Certificate in Cyber Resilience Management,Vulnerability Analysis,25/26,KCYRM_9_Y1,PGC Cyber Resilience Mgmt Y1,SEP-JUN,31592,Postgraduate Certificate
+CR_KCYRM_9,CYBR9022,Postgraduate Certificate in Cyber Resilience Management,Cybersecurity Risk Frameworks,25/26,KCYRM_9_Y1,PGC Cyber Resilience Mgmt Y1,SEP-JUN,31594,Postgraduate Certificate
+CR_KCYRM_9,CYBR9028,Postgraduate Certificate in Cyber Resilience Management,AI For Cyber Resilience,25/26,KCYRM_9_Y1,PGC Cyber Resilience Mgmt Y1,SEP-JUN,31590,Postgraduate Certificate
+CR_KCYRM_9,CYBR9029,Postgraduate Certificate in Cyber Resilience Management,Cyber Business Process,25/26,KCYRM_9_Y1,PGC Cyber Resilience Mgmt Y1,SEP-JUN,31591,Postgraduate Certificate
+CR_KDORE_9,CYBR9021,Certificate in Digital Operational Resilience,Cybersecurity & Digital Operational Resilience,25/26,KDORE_9_Y1,Cert Digital Op Resilience,SEP-JUN,30653,Certificate
+CR_KDORE_9,CYBR9022,Certificate in Digital Operational Resilience,Cybersecurity Risk Frameworks,25/26,KDORE_9_Y1,Cert Digital Op Resilience,SEP-JUN,30654,Certificate
+CR_KMLFA_9,COMP9047,Certificate in Malware and Logfile Analysis,Malware Investigations,25/26,KMLFA_9_Y1,Cert Malware & Log Anlys Y1,SEP-JUN,31621,Certificate
+CR_KMLFA_9,COMP9048,Certificate in Malware and Logfile Analysis,Malware Reverse Engineering,25/26,KMLFA_9_Y1,Cert Malware & Log Anlys Y1,SEP-JUN,31623,Certificate
+CR_KMLFA_9,CYBR8004,Certificate in Malware and Logfile Analysis,Log Files and Event Analysis,25/26,KMLFA_9_Y1,Cert Malware & Log Anlys Y1,SEP-JUN,31622,Certificate
+CR_KOTSS_9,CYBR8004,Professional Diploma in OT Security Operations Specialist,Log Files and Event Analysis,25/26,KOTSS_9_Y1,PD OT Security Operations PT,SEP-JUN,30433,Professional Diploma
+CR_KSNOP_8,CYBR8001,Certificate in Secure Network Operations,Cybersecurity Standards and Risk,25/26,KSNOP_8_Y1,Cert Secure Network Operations,SEP-JUN,29543,Certificate
+CR_KSNOP_8,CYBR8002,Certificate in Secure Network Operations,Secure Network Services,25/26,KSNOP_8_Y1,Cert Secure Network Operations,SEP-JUN,29544,Certificate
+CR_KSNOP_8,CYBR8003,Certificate in Secure Network Operations,Secure Network Systems,25/26,KSNOP_8_Y1,Cert Secure Network Operations,SEP-JUN,29545,Certificate
+CR_KSNOP_8,CYBR8004,Certificate in Secure Network Operations,Log Files and Event Analysis,25/26,KSNOP_8_Y1,Cert Secure Network Operations,SEP-JUN,29546,Certificate
+CR_KSSDE_9,CYBR8001,Certificate in Secure Software Development,Cybersecurity Standards and Risk,25/26,KSSDE_9_Y1,Cert Secure Software Dvlpmnt,SEP-JUN,29543,Certificate
+CR_KSSDE_9,CYBR9001,Certificate in Secure Software Development,Secure Software Development,25/26,KSSDE_9_Y1,Cert Secure Software Dvlpmnt,SEP-JUN,29550,Certificate
+CR_KSSDE_9,CYBR9002,Certificate in Secure Software Development,Security Assurance,25/26,KSSDE_9_Y1,Cert Secure Software Dvlpmnt,SEP-JUN,29551,Certificate
+CR_KSSDE_9,CYBR9003,Certificate in Secure Software Development,Practical Cryptography,25/26,KSSDE_9_Y1,Cert Secure Software Dvlpmnt,SEP-JUN,29552,Certificate
+CR_KSYAS_9,CYBR9004,Certificate in Systems Architecture Security,Cryptography & Protocols,25/26,KSYAS_9_Y1,Cert Systems Arch Security PT,SEP-JUN,30191,Certificate
+CR_KSYAS_9,CYBR9005,Certificate in Systems Architecture Security,Information Security Architecture,25/26,KSYAS_9_Y1,Cert Systems Arch Security PT,SEP-JUN,30192,Certificate
